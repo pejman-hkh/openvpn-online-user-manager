@@ -1,4 +1,4 @@
-# openvpn-online-user-mangaer
+# openvpn-online-user-manager
 Openvpn get online user form managment
 
 Set ```management localhost 6666``` in server.conf and get online user from it with php
